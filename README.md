@@ -136,3 +136,4 @@ Changes from original
 * Updated to use with the latest version of `mediainfo`
 * Updated to use latest version of `filesize-parser`
 * Added .gitignore
+* try/catch around `file_size` - see https://github.com/jamesmorgan/node-mediainfo-q/pull/5 - thanks to @gabrielstuff
