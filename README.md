@@ -97,7 +97,7 @@ Example
 -------
 
 ```javascript
-var mediainfo = require("mediainfo");
+var mediainfo = require("mediainfo-q");
 
 mediainfo("/path/to/file", "/path/to/other/file")
     .then(function (res) {
